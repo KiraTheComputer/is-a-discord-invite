@@ -1,6 +1,6 @@
 {
   "name": "is-a-discord-invite",
-  "version": "0.0.1-alpha",
+  "version": "0.1.0-alpha",
   "description": "A simple package to check if a string is a Discord invite.",
   "main": "./lib/index.js",
   "files": [
