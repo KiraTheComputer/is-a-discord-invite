@@ -1,0 +1,10 @@
+name: Upload coverage reports to Codecov
+on:
+    push:
+      branches:
+        - main
+jobs:    
+    codecov:
+        uses: codecov/codecov-action@v4.0.1
+        with:
+            token: ${{ secrets.CODECOV_TOKEN }}
