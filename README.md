@@ -1,6 +1,6 @@
 
-# is-a-discord-invite
-
+# is-a-discord-invite 
+### NOW AVAILABLE ON NPM
 [![npm package][npm-img]][npm-url]
 [![Build Status][build-img]][build-url]
 [![Downloads][downloads-img]][downloads-url]
